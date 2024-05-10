@@ -5,10 +5,15 @@ This report details the development and application of a machine learning model 
 
 ## Table of Contents
 Background
+
 Implementation Method
+
 Significant Results
+
 Comparison of Results
+
 Conclusion and Insights
+
 References
 
 ## Background
