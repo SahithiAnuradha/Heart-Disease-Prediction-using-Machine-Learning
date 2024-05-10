@@ -4,15 +4,15 @@
 This report details the development and application of a machine learning model aimed at predicting the occurrence of heart disease in individuals. The project utilizes four major machine learning techniques: Multilayer Perceptron, Support Vector Machines, Random Forest, and Naïve Bayes, with further enhancements using Random Forest and XGBoost.
 
 ## Table of Contents
-Background
+- Background
 
-Implementation Method
+- Implementation Method
 
-Significant Results
+- Significant Results
 
-Comparison of Results
+- Comparison of Results
 
-Conclusion and Insights
+- Conclusion and Insights
 
 References
 
@@ -24,21 +24,21 @@ The implementation is described in detail, covering data collection, preprocessi
 
 ### Stages of Implementation:
 
-Data Collection and Preprocessing
+- Data Collection and Preprocessing
 
-Data Cleaning & Visualization
+- Data Cleaning & Visualization
 
-Checking for Imbalances
+- Checking for Imbalances
 
-Data Transformation
+- Data Transformation
 
-Dimensionality Reduction
+- Dimensionality Reduction
 
-Train-Test Split
+- Train-Test Split
 
-Applying Algorithm
+- Applying Algorithm
 
-Evaluation Metrics
+- Evaluation Metrics
 
 ## Significant Results
 The application of Random Forest and XGBoost led to accuracy improvements, with Random Forest achieving a 90% accuracy rate and XGBoost reaching 86.7%.
