@@ -25,12 +25,19 @@ The implementation is described in detail, covering data collection, preprocessi
 ### Stages of Implementation:
 
 Data Collection and Preprocessing
+
 Data Cleaning & Visualization
+
 Checking for Imbalances
+
 Data Transformation
+
 Dimensionality Reduction
+
 Train-Test Split
+
 Applying Algorithm
+
 Evaluation Metrics
 
 ## Significant Results
