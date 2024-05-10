@@ -46,6 +46,8 @@ The application of Random Forest and XGBoost led to accuracy improvements, with 
 ## Comparison of Results
 A comparison between the original research paper's results and those achieved after implementation enhancements.
 
+<img src="results_heart_disease_prediction.jpeg" alt="alt text" width="800" height="400"/>
+
 ## Conclusion and Insights
 Concludes the findings from the machine learning implementation, discussing the enhanced predictive accuracy and the overall impact on heart disease prediction.
 
